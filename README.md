@@ -60,7 +60,7 @@ Este proyecto apunta a revolucionar la experiencia gastronómica de los millenni
 <h2 align='center'> 🤖 Modelos de Machine Learning 📚</h2>
 
 - [Categorías emergentes](https://smartdineandtrends-nzwfw96rgefxirvffmaxet.streamlit.app/)
-- [Recomendación](https://smartdineandtrends-jteppye5d9ssgswiyzsgmp.streamlit.app/)
+- [Recomendación de Restaurantes](https://smartdineandtrends-jteppye5d9ssgswiyzsgmp.streamlit.app/)
 
 
 
